@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'active_model_serializers', '0.10.0.rc3'
 gem 'pg'
+gem 'devise'
 
 group :development, :test do
   gem 'byebug'
